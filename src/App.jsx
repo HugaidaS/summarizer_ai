@@ -5,9 +5,13 @@ import './App.scss';
 const App = () => {
   return (
     <main>
-      <h1>App</h1>
-      <Demo />
-      <Hero />
+      <div className="main">
+        <div className="gradient"/>
+      </div>
+      <div className="app">
+        <Hero/>
+        <Demo/>
+      </div>
     </main>
   );
 };
