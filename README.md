@@ -2,7 +2,7 @@
 
 Demo application for summarizing articles and web pages empowered by AI.
 
-[demo.png](src/assets/demo.png)
+<img alt="demo.png" height="500" src="src/assets/demo.png" width="500"/>!
 
 If you like this demo, please give it a :star: star
 
