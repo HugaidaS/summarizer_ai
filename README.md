@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aaee8e99-e1f8-40bc-8756-114339090a5a/deploy-status)](https://app.netlify.com/sites/stellar-belekoy-6de062/deploys)
+
 # Articles summarizer
 
 Demo application for summarizing articles and web pages empowered by AI.
