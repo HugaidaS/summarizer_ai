@@ -66,7 +66,6 @@ export const Demo = () => {
       </form>
 
       {/* Browse URL history*/}
-
       <div className="flex flex-col gap-1 max-h-60 overflow-y-auto">
         {allArticles.map((article, index) => {
           return <div
@@ -93,7 +92,6 @@ export const Demo = () => {
 
       {/* Display results*/}
       {/* We have fetching state or (error or summary) as the result*/}
-
       <div className="my-10 max-w-full flex justify-center">
         {isFetching ?
             (
